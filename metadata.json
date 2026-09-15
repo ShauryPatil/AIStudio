@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Starter",
+  "description": "An elegant, interactive starter dashboard for your Google AI Studio web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
